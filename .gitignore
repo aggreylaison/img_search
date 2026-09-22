@@ -1,0 +1,2 @@
+# Keep the local image dataset and generated data out of Git.
+data/
